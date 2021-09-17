@@ -1,0 +1,23 @@
+{
+  "name": "attendance-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seksky333/attendance-form.git"
+  },
+  "author": "Chester Sek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seksky333/attendance-form/issues"
+  },
+  "homepage": "https://github.com/seksky333/attendance-form#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
